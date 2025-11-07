@@ -83,7 +83,7 @@ function App() {
       <ToastContainer position="top-right" autoClose={2000} />
 
       {/* Header */}
-      <h1 className="text-5xl font-extrabold text-transparent bg-clip-text  from-blue-600 to-indigo-700 mb-8 drop-shadow-md">
+      <h1 className="text-5xl font-extrabold text-transparent bg-clip-text bg-black  from-blue-600 to-indigo-700 mb-8 drop-shadow-md">
         My To-Do List
       </h1>
 
