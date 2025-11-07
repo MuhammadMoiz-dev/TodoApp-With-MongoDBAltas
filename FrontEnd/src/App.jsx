@@ -97,7 +97,7 @@ function App() {
         />
         <button
           onClick={addTodo}
-          className=" from-blue-600 to-indigo-700 text-white px-6 font-medium hover:opacity-90 transition-all"
+          className=" from-blue-600 bg-black to-indigo-700 text-white px-6 font-medium "
         >
           Add
         </button>
